@@ -1,0 +1,13 @@
+0_arme;Arme
+1_protection;Protection
+2_bottes;Bottes
+3_action;Action
+4_score;Score
+5_pv;Points de vie
+6_nbTours;Tours
+7_nom;Nom
+8_or;Or
+9_endurance;Endurance
+10_ennemiTue; Vous avez tué un ennemi
+11_guerisseur;Vous avez rencontré un guérisseur
+12_guerison;Vous avez été guéri

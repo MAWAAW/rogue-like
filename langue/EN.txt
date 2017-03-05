@@ -1,0 +1,13 @@
+0_arme;Weapon
+1_protection;Shield
+2_bottes;Boots
+3_action;Action
+4_score;Score
+5_pv;Health
+6_nbTours;Laps
+7_nom;Name
+8_or;Gold
+9_endurance;Stamina
+10_ennemiTue; You killed an enemy
+11_guerisseur;You met a healer
+12_guerison;You have been healed
